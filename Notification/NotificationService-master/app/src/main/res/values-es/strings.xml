@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notification Service</string>
+    <string name="message_hint">Escribe tu mensaje</string>
+    <string name="send_text">Enviar</string>
+</resources>
